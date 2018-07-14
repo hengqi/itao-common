@@ -66,6 +66,12 @@
             <artifactId>jsp-api</artifactId>
             <scope>provided</scope>
         </dependency>
+
+        <!-- 文件上传客户端 -->
+        <dependency>
+            <groupId>com.chenhl</groupId>
+            <artifactId>fastdfs-client-java</artifactId>
+        </dependency>
     </dependencies>
 
 
